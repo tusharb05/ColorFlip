@@ -4,6 +4,7 @@ body{
     font-family: sans-serif;
     background-color: #000;
     text-align: center;
+    justify-content: center;
 }
 header {
     padding-top: 15px;
@@ -21,8 +22,9 @@ nav {
     color: white;
     background:transparent;
     font-size: 20px;
+    margin: auto;
     margin-top: 30%;
-    margin-left: 37%;
+/*     margin-left: 37%; */
 }
 .btn:hover {
     background: #ec4646;
